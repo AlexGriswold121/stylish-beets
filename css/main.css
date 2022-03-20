@@ -21,7 +21,7 @@ font-weight: bold;
 }
 a:hover {
   color: #3f1622;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 .no-number {
   list-style: none;
@@ -32,7 +32,7 @@ a:hover {
 .wiki {
   color: #8f2440;
   text-decoration: underline;
-  font-size: 0.8rem;
+  font-size: .8rem;
   line-height: normal;
 
 }
@@ -54,7 +54,7 @@ img {
 
 figcaption {
 font-style: italic;
-font-size: 0.8rem;
+font-size: .8rem;
 font-family: "PT Serif", serif
 }
 .bold {
